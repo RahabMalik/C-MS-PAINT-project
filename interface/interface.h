@@ -1,0 +1,9 @@
+int main_menu();
+void shapes();
+void save_shapes();
+void numbers_interface();
+void alphabets_interface_save();
+void drawing_interface();
+void alphabets_interface();
+void geometrical_interface();
+void geometrical_interface_save();

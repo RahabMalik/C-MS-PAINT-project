@@ -1,0 +1,27 @@
+#include <windows.h>
+void print_A(int num, int sym, int color, COORD cord);
+void print_B(int num, int sym, int color, COORD cord);
+void print_C(int num, char sym, int color, COORD cord);
+void print_D(int num, char sym, int color, COORD cord);
+void print_E(int num, char sym, int color, COORD cord);
+void print_F(int num, char sym, int color, COORD cord);
+void print_G(int num, int sym, int color, COORD cord);
+void print_H(int num, int sym, int color, COORD cord);
+void print_I(int num, char sym, int color,COORD cord);
+void print_J(int num, int sym, int color, COORD cord);
+void print_K(int num, int sym, int color, COORD cord);
+void print_L(int num, int sym, int color, COORD cord);
+void print_M(int num, char sym, int color, COORD cord);
+void print_N(int num,char sym,int color, COORD cord);
+void print_O(int num, char sym, int color, COORD cord);
+void print_P(int num, char sym, int color, COORD cord);
+void print_Q(int num, char sym, int color, COORD cord);
+void print_R(int num, int sym, int color, COORD cord);
+void print_S(int num, int sym, int color, COORD cord);
+void print_T(int num, char sym, int color, COORD cord);
+void print_U(int num, int sym, int color, COORD cord);
+void print_V(int num, int sym, int color, COORD cord);
+void print_W(int num, char sym, int color, COORD cord);
+void print_X(int num, int sym, int color, COORD cord);
+void print_Y(int num, int sym, int color, COORD cord);
+void print_Z(int num, char sym, int color, COORD cord);
