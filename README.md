@@ -1,6 +1,5 @@
 # C-MS-PAINT-project
-This project is a feature-rich MS Paint application built in C, offering a wide range of creative tools and functionalities. Users can create, edit, save and manipulate various shapes, including geometrical shapes, alphabets, and numbers. The application also supports freehand drawing, allowing users to unleash their creativity.
-In this project I used MVC method (monitor(data),view(brain) and control(interface))
-In data folder, we have many files. In .c files, we have logic of all respective shapes and in .h we have definition and in data_header.h we have master header file.
-In brain folder, we have 3 files. In brain.c we decided which shape should be call from data.c and in brain.h we have definitions and brain_header.h we have all header files
-In interface folder, we have 3 files. In interface.c we take input from users about color,size,position and symbol etc and in interface_header.h we have all header files.
+This project encompasses a feature-rich MS Paint application developed in C, offering a wide array of creative tools and functionalities. Users have the ability to create, edit, save, and manipulate various shapes, including geometric shapes, alphabets, and numbers. The application also facilitates freehand drawing, providing users with a canvas to unleash their creativity.
+For the implementation of this project, I adopted the Model-View-Controller (MVC) design pattern. In the "Data" folder, you can find numerous files. The ".c" files house the logic for the respective shapes, while the ".h" files contain their definitions. The "data_header.h" serves as the master header file.
+In the "Brain" folder, you will find three files. "Brain.c" plays a crucial role in determining which shape should be called from "data.c." The "brain.h" file provides definitions, and "brain_header.h" consolidates all the necessary header files.
+Within the "Interface" folder, there are three files. "Interface.c" is responsible for taking user input related to color, size, position, and symbols, among other parameters. The "interface_header.h" file consolidates all the essential header files for the interface components.
